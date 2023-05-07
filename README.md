@@ -1,4 +1,4 @@
-# SampleChannel
+# How to use Channel in ASP.NET Core
 ## What is Channel in ASP.NET Core
 
 A channel in ASP.NET is a new feature introduced in .NET Core 2.1 that provides a high-performance, scalable way to communicate between different parts of an application.
